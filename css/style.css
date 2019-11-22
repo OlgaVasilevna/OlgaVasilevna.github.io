@@ -1193,7 +1193,7 @@ line-height: 20px;
         overflow-x: hidden;
     }
     body{
-        max-width: 480px;
+        width: 480px;
         margin: 0 auto;
     }
     .main-slidedeck{
@@ -1356,7 +1356,7 @@ line-height: 20px;
     .video-legend{
         top: 225px;
         left: 18,75%;
-        width: 62%
+        width: 62%;
     }
     .video-legend-title{
         font-size: 23px;
