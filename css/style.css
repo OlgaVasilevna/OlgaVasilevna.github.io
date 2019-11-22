@@ -1355,7 +1355,7 @@ line-height: 20px;
     }
     .video-legend{
         top: 225px;
-        left: 18,75%;
+        left: 18.75%;
         width: 62%;
     }
     .video-legend-title{
@@ -1414,14 +1414,14 @@ line-height: 20px;
         text-align: justify;
     }
     .mobile-devices-list{
-        margin: 0 0 0 50%;
+        margin: 0 0 0 48%;
     }
     .mobile-devices-item{
       font-size: 12px;
       line-height: 22px;  
     }
     .mobile-devices-item:before{
-     left:50%;   
+     left:43%;   
     }
     .statictics{
         padding: 20px 10px;
