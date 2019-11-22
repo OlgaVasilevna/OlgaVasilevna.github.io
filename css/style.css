@@ -1190,7 +1190,7 @@ line-height: 20px;
 }
 @media (max-width:480px){
     html{
-        overflow: hidden;
+        overflow-x: hidden;
     }
     body{
         max-width: 480px;
