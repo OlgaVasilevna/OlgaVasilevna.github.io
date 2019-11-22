@@ -37,7 +37,7 @@
 }
 
 body{
-    max-width: 1920px;
+    width: 1920px;
     margin: 0 auto;
 }
 .main-slidedeck{
@@ -62,7 +62,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  max-width: 180px;
+  width: 180px;
   text-decoration: none;
   background-color: transparent;
   margin: 0 0 0 336px;
@@ -159,7 +159,7 @@ button[type="submit"]:focus{
     outline: none;
 }
 .header-menu-search:focus{
-    max-width: 200px;
+    width: 200px;
     height: 29px;
     top: 100px;
     border:1px solid #fff;
@@ -206,7 +206,7 @@ button[type="submit"]:focus{
 }
 .main-slidedeck-button{
 display: block;
-max-width: 170px;
+width: 170px;
 min-height: 48px;
 border-radius:5px;
 background-color: #998675; 
@@ -256,7 +256,7 @@ text-decoration: none;
    background-color:rgba(0,0,0,0.3);   
 }
 .main-slidedeck-circles{
- max-width: 120px;
+ width: 120px;
  position: absolute;
   display: flex;
   justify-content: center;
@@ -409,7 +409,7 @@ color: #c7b299;
 }
 .advertising-buttom{
     display: flex;
-    max-width: 170px;
+    width: 170px;
     min-height: 50px;
     text-decoration: none;
     box-shadow: inset 0 -3px 0 #736357;
@@ -593,7 +593,7 @@ color: #c7b299;
   border: none;
   background-color: transparent;
   position: absolute;
-  top: 30%
+  top: 30%;
 }
 
 .article-btn-link {
@@ -655,7 +655,7 @@ background-color: #998675;
     position: absolute;
 }
 .video-iconplay{
-    max-width: 100px;
+    width: 100px;
     min-height:100px;
     border-radius: 50%;
     background-color: transparent;
@@ -781,7 +781,7 @@ line-height: 32px;
 }
 
 .statictics-element{
-    max-width: 137px;
+    width: 137px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -928,7 +928,7 @@ line-height: 32px;
  top:20px;
 }
 .article-post-month{
-    max-width: 50px;
+    width: 50px;
     min-height: 25px;
     display: block;
     background-color: #252525;
@@ -1191,7 +1191,7 @@ line-height: 20px;
 @media (max-width:480px){
     
     body{
-        max-width: 480px;
+        width: 480px;
         margin: 0 auto;
     }
     .main-slidedeck{
@@ -1213,7 +1213,7 @@ line-height: 20px;
         display: block;
         width: 50px;
         height: 50px;
-       border: 2px solid #fff;
+        border: 2px solid #fff;
         border-radius: 10%;
         float: right;
         position: absolute;
@@ -1277,16 +1277,16 @@ line-height: 20px;
         box-sizing: border-box;
     }
     .features-ideas-title{
-        width: 460px;
+        max-width: 460px;
         font-size: 28px;
         
     }
     .features-ideas-text{
         margin: 0 0 20px 0;
-        width: 460px;
+        max-width: 460px;
     }
     .features-ideas-img{
-      width: 460px;
+        max-width: 460px;
         min-height: 160px;
         background-size: 220px 160px, 220px 133px, 220px 133px;
     }
@@ -1318,7 +1318,7 @@ line-height: 20px;
         box-sizing: border-box;
     }
     .latest-projects-text{
-       width: 460px;
+        max-width: 460px;
         font-size: 14px;
         margin: 0 0 25px 0;
     }
@@ -1398,7 +1398,7 @@ line-height: 20px;
     }
     .mobile-devices-discription{
         padding: 0px;
-        width: 460px;
+        max-width: 460px;
     }
     .mobile-devices-title{
         text-align: center;
@@ -1442,7 +1442,7 @@ line-height: 20px;
         font-size: 28px;
     }
     .posts-description{
-        width: 460px;
+        max-width: 460px;
         font-size: 12px;
         margin: 0 0 20px 0;
     }
