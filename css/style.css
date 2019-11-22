@@ -1415,14 +1415,14 @@ line-height: 20px;
     }
     .mobile-devices-list{
         margin: 0 0 0 48%;
-        padding:0;
+        padding: 0px;
     }
     .mobile-devices-item{
       font-size: 12px;
       line-height: 22px;  
     }
     .mobile-devices-item:before{
-     left:43%;   
+     left:44%;   
     }
     .statictics{
         padding: 20px 10px;
