@@ -302,7 +302,7 @@ text-decoration: none;
 .features-element:after {
   content: "";
   display: block;
-  max-width: 70px;
+  width: 70px;
   height: 3px;
   background-color: #f1eee9;
 }
