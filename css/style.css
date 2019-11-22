@@ -1222,7 +1222,7 @@ line-height: 20px;
         background: url(../img/menu.svg);
         background-repeat: no-repeat;
         top: 50px;
-        left: 376px;
+        left: 78%;
     }
     #main-header-menu-list{
      position: absolute;
@@ -1355,7 +1355,7 @@ line-height: 20px;
     }
     .video-legend{
         top: 225px;
-        left: 90px;
+        left: 18,75%;
         width: 62%
     }
     .video-legend-title{
@@ -1380,7 +1380,7 @@ line-height: 20px;
     
     .video-iconplay{
         top: 155px;
-        left: 215px;
+        left: 45%;
         width: 60px;
         min-height: 60px;
         background-size: 50px 50px;
