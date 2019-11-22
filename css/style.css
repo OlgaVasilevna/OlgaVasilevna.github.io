@@ -1421,7 +1421,7 @@ line-height: 20px;
       line-height: 22px;  
     }
     .mobile-devices-item:before{
-     left:240px;   
+     left:50%;   
     }
     .statictics{
         padding: 20px 10px;
@@ -1457,7 +1457,7 @@ line-height: 20px;
     }
     .sponsor-item{
         margin: 0 20px 10px 20px;
-        max-width: 150px;
+        width: 150px;
         min-height: 100px;
         height: auto;
     }
@@ -1466,7 +1466,7 @@ line-height: 20px;
         box-sizing: border-box;
     }
     .contacts-column{
-        max-width: 220px;
+        width: 220px;
         padding: 0 0 0 10px;
         margin: 0;
     }
