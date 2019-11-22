@@ -1415,6 +1415,7 @@ line-height: 20px;
     }
     .mobile-devices-list{
         margin: 0 0 0 48%;
+        padding:0;
     }
     .mobile-devices-item{
       font-size: 12px;
