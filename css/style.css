@@ -1279,7 +1279,6 @@ line-height: 20px;
         display:flex;
         flex-direction: column;
         justify-content: center;
-        align-items: center;
     }
     .features-ideas-title{
         max-width: 460px;
