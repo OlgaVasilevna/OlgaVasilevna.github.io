@@ -990,7 +990,7 @@ line-height: 32px;
     width: 100%;
     background-image: url('../img/photo(12).png');
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -1282,7 +1282,7 @@ line-height: 20px;
         align-items: center;
     }
     .features-ideas-title{
-        max-width: 460px;
+        max-width: 410px;
         font-size: 28px;
         margin:0 0 20px 0;
         padding:0;
@@ -1473,10 +1473,7 @@ line-height: 20px;
   }
     .sponsors{
         padding: 40px 10px 25px 10px;
-        margin: 0;
-        background-size: cover;
-        box-sizing: border-box;
-        
+        margin: 0; 
     }
     .sponsor-item{
         margin: 0 20px 10px 20px;
