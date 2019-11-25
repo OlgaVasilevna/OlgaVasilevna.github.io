@@ -1282,7 +1282,7 @@ line-height: 20px;
         align-items: center;
     }
     .features-ideas-title{
-        max-width: 410px;
+        max-width: 460px;
         font-size: 28px;
         margin:0 0 20px 0;
         padding:0;
@@ -1294,7 +1294,7 @@ line-height: 20px;
         max-width: 460px;
     }
     .features-ideas-img{
-        max-width: 460px;
+        width: 410px;
         min-height: 160px;
         background-size: 220px 160px, 220px 133px, 220px 133px;
     }
