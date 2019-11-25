@@ -862,6 +862,7 @@ line-height: 32px;
 .article-posts{
     width:100%;
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
 }
 .article-post{
@@ -1002,7 +1003,8 @@ line-height: 32px;
 .sponsor-item{
     margin: 0 45px;
     display: block;
-   background-color: transparent;
+    width:210px;
+    background-color: transparent;
 }
 .sponsor-link{
     text-decoration-style: none;
